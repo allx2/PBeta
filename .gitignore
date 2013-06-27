@@ -1,0 +1,42 @@
+#Some compiled extensions and backups
+*.exe
+*.*~
+*.iml
+*.idea
+*.pyc
+*.out
+*.exe
+*.db
+*.class
+
+*.log
+
+*.pydevproject
+.project
+.metadata
+
+bin/**
+tmp/**
+tmp/**/*
+
+*.tmp
+*.bak
+*.swp
+*~.nib
+
+#If you use eclipse
+.classpath
+.settings/
+.loadpath
+
+#If you use IntelliJ
+.idea/
+
+# Locally stored "Eclipse launch configurations"
+*.launch
+
+# CDT-specific
+.cproject
+
+# PDT-specific
+.buildpath
